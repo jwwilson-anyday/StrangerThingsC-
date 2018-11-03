@@ -11,7 +11,7 @@ Welcome to Stranger Things the Game!  You will be making a .NET console app that
 ------
 How to Play
 ------
-You will play in rounds.  Each round gives your character a choice of what do to of these following choices:
+You will play in rounds.  Each round gives your character a choice of what to do of the following choices:
 1. View Connected Locations
 2. Move to Another Location
 3. View Location Items
